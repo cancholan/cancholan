@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [nickcanchola.com](nickcanchola.com)
+- 👨‍💻 All of my projects are available at <a href="nickcanchola.com">nickcanchola.com</a>
 
 - 📫 How to reach me **cancholan2@gmail.com**
 
